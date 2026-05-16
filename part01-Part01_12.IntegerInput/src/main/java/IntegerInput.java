@@ -12,5 +12,5 @@ public class IntegerInput {
 
         scanner.close();
 
-    }
+    }01_12
 }
