@@ -6,6 +6,11 @@ public class Orwell {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        // Write your program here
+        int eingabe = scan.nextInt();
+
+        System.out.println("Give a number:");
+        if (eingabe == 1984) {
+            System.out.println("Orwell");
+        }
     }
 }
